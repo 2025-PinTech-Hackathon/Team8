@@ -141,7 +141,6 @@ https://d2iyjdgwp264p6.cloudfront.net
 <img width="7444" alt="KakaoTalk_20250517_155136041" src="https://github.com/user-attachments/assets/17da6dc5-07de-4cfd-b4d6-59aca86bef09" />
 
 ## 노션 & 피그마 링크
-노션: https://tangible-brand-a45.notion.site/1ef73893dd9c8043b48bce30de752379?pvs=4
 피그마 : https://www.figma.com/files/team/1325450043821493028/recents-and-sharing?fuid=1325450041671789615
 
 
